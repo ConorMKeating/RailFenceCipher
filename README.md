@@ -7,7 +7,7 @@ three menu otions to encrypt or decrypt. So, I changed the layout. The program w
 in the Teams workshop, and from there, I have adapted it to function as I wanted it too.
 
 The program runs as follows:<br>
-1 User selects whether to encrypt/decrypt a file, or encrypt a url.<br>
+1 User selects whether to encrypt/decrypt a file, or encrypt a url. (Just type in one filename alone e.g. Dante.txt )<br>
 2 User is asked to enter the key (number of rows) and offset (starting row).<br>
 3 For files, user is asked whether to encrypt or decrypt. For urls the encryption is already done in step 2.<br>
 4 For files, encryption or decryption occurs.<br>
