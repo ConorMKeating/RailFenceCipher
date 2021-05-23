@@ -11,19 +11,7 @@ The program runs as follows:<br>
 2 User is asked to enter the key (number of rows) and offset (starting row).<br>
 3 For files, user is asked whether to encrypt or decrypt. For urls the encryption is already done in step 2.<br>
 4 For files, encryption or decryption occurs.<br>
-
-If a user tries to display a rail fence before one has been created, the application will inform them of that.
-There is a mix of checks for correct user input such as exception handling and loops.
-
-I believe exception handling is considered an extra, which I have included. In terms of other extras, I couldn't really highlight any more. Everything else in the program
-seems to be fundamental to its proper functioning.
-
-In terms of references, I did refer to stackoverflow once or twice, but all I took from it was a single expression such as how
-to validate a file exists (isFile).
-REF: https://stackoverflow.com/questions/1816673/how-do-i-check-if-a-file-exists-in-java
-
-All other code was created from what we have done through the course so far.
-
+<br>
 To run this application follow these steps:<br>
 1 Download the src folder which contains the uncompiled .java file.<br>
 2 Open a command prompt at src/ie/gmit/dip folder.<br>
